@@ -1,0 +1,262 @@
+Country,Country_Code
+Afghanistan,AFG
+Albania,ALB
+Algeria,DZA
+American Samoa,ASM
+"Andorra, Principality of",AND
+Angola,AGO
+Antigua and Barbuda,ATG
+Azerbaijan,AZE
+Azerbaijan,AZE
+Argentina,ARG
+Australia,AUS
+Austria,AUT
+Bahamas the,BHS
+Bahrain,BHR
+Bangladesh,BGD
+Armenia,ARM
+Armenia,ARM
+Barbados,BRB
+Belgium,BEL
+Bermuda,BMU
+Bhutan,BTN
+Bolivia,BOL
+Bosnia and Herzegovina,BIH
+Botswana,BWA
+Bouvet Island (Bouvetoya),BVT
+Brazil,BRA
+Belize,BLZ
+British Indian Ocean Territory (Chagos Archipelago),IOT
+Solomon Islands,SLB
+British Virgin Islands,VGB
+Brunei Darussalam,BRN
+Bulgaria,BGR
+"Myanmar, Union of",MMR
+Burundi,BDI
+Belarus,BLR
+Cambodia,KHM
+Cameroon,CMR
+Canada,CAN
+Cape Verde,CPV
+Cayman Islands,CYM
+Central African Republic,CAF
+"Sri Lanka, Democratic Socialist Republic of",LKA
+Chad,TCD
+Chile,CHL
+China,CHN
+Taiwan,TWN
+Christmas Island,CXR
+Cocos (Keeling) Islands,CCK
+Colombia,COL
+"Comoros, Union of the",COM
+Mayotte,MYT
+Congo the,COG
+"Congo, Democratic Republic of the",COD
+Cook Islands,COK
+Costa Rica,CRI
+Croatia,HRV
+Cuba,CUB
+Cyprus,CYP
+Cyprus,CYP
+Czech Republic,CZE
+Benin,BEN
+Denmark,DNK
+Dominica,DMA
+Dominican Republic,DOM
+Ecuador,ECU
+El Salvador,SLV
+Equatorial Guinea,GNQ
+"Ethiopia, Federal Democratic Republic of",ETH
+"Eritrea, State of",ERI
+Estonia,EST
+Faroe Islands,FRO
+Falkland Islands (Malvinas),FLK
+South Georgia and the South Sandwich Islands,SGS
+Fiji the Fiji Islands,FJI
+Finland,FIN
+Åland Islands,ALA
+"France, French Republic",FRA
+French Guiana,GUF
+French Polynesia,PYF
+French Southern Territories,ATF
+Djibouti,DJI
+"Gabon, Gabonese Republic",GAB
+Georgia,GEO
+Georgia,GEO
+Gambia the,GMB
+"Palestinian Territory, Occupied",PSE
+"Germany, Federal Republic of",DEU
+Ghana,GHA
+Gibraltar,GIB
+Kiribati,KIR
+"Greece, Hellenic Republic",GRC
+Greenland,GRL
+Grenada,GRD
+Guadeloupe,GLP
+Guam,GUM
+Guatemala,GTM
+Guinea,GIN
+"Guyana, Co-operative Republic of",GUY
+Haiti,HTI
+Heard Island and McDonald Islands,HMD
+Holy See (Vatican City State),VAT
+Honduras,HND
+"Hong Kong, Special Administrative Region of China",HKG
+Hungary,HUN
+Iceland,ISL
+India,IND
+Indonesia,IDN
+Iran,IRN
+Iraq,IRQ
+Ireland,IRL
+"Israel, State of",ISR
+"Italy, Italian Republic",ITA
+Cote d'Ivoire,CIV
+Jamaica,JAM
+Japan,JPN
+Kazakhstan,KAZ
+Kazakhstan,KAZ
+"Jordan, Hashemite Kingdom of",JOR
+Kenya,KEN
+"Korea, Democratic People's Republic of",PRK
+Korea,KOR
+"Kuwait, State of",KWT
+Kyrgyz Republic,KGZ
+Lao People's Democratic Republic,LAO
+"Lebanon, Lebanese Republic",LBN
+Lesotho,LSO
+Latvia,LVA
+Liberia,LBR
+Libyan Arab Jamahiriya,LBY
+"Liechtenstein, Principality of",LIE
+Lithuania,LTU
+"Luxembourg, Grand Duchy of",LUX
+"Macao, Special Administrative Region of China",MAC
+Madagascar,MDG
+Malawi,MWI
+Malaysia,MYS
+Maldives,MDV
+Mali,MLI
+Malta,MLT
+Martinique,MTQ
+Mauritania,MRT
+Mauritius,MUS
+"Mexico, United Mexican States",MEX
+"Monaco, Principality of",MCO
+Mongolia,MNG
+Moldova,MDA
+Montenegro,MNE
+Montserrat,MSR
+Morocco,MAR
+Mozambique,MOZ
+"Oman, Sultanate of",OMN
+Namibia,NAM
+Nauru,NRU
+"Nepal, State of",NPL
+Netherlands the,NLD
+Netherlands Antilles,ANT
+Curaçao,CUW
+Aruba,ABW
+Sint Maarten (Netherlands),SXM
+"Bonaire, Sint Eustatius and Saba",BES
+New Caledonia,NCL
+Vanuatu,VUT
+New Zealand,NZL
+Nicaragua,NIC
+Niger,NER
+"Nigeria, Federal Republic of",NGA
+Niue,NIU
+Norfolk Island,NFK
+Norway,NOR
+Northern Mariana Islands the,MNP
+United States Minor Outlying Islands,UMI
+United States Minor Outlying Islands,UMI
+"Micronesia, Federated States of",FSM
+Marshall Islands the,MHL
+Palau,PLW
+Pakistan,PAK
+Panama,PAN
+"Papua New Guinea, Independent State of",PNG
+Paraguay,PRY
+Peru,PER
+Philippines the,PHL
+Pitcairn Islands,PCN
+Poland,POL
+"Portugal, Portuguese Republic",PRT
+Guinea-Bissau,GNB
+"Timor-Leste, Democratic Republic of",TLS
+Puerto Rico,PRI
+"Qatar, State of",QAT
+Reunion,REU
+Romania,ROU
+Russian Federation,RUS
+Russian Federation,RUS
+Rwanda,RWA
+Saint Barthelemy,BLM
+Saint Helena,SHN
+"Saint Kitts and Nevis, Federation of",KNA
+Anguilla,AIA
+Saint Lucia,LCA
+Saint Martin,MAF
+Saint Pierre and Miquelon,SPM
+Saint Vincent and the Grenadines,VCT
+San Marino,SMR
+"Sao Tome and Principe, Democratic Republic of",STP
+Saudi Arabia,SAU
+Senegal,SEN
+Serbia,SRB
+Seychelles,SYC
+Sierra Leone,SLE
+Singapore,SGP
+Slovakia (Slovak Republic),SVK
+"Vietnam, Socialist Republic of",VNM
+Slovenia,SVN
+"Somalia, Somali Republic",SOM
+South Africa,ZAF
+Zimbabwe,ZWE
+Spain,ESP
+South Sudan,SSD
+Western Sahara,ESH
+Sudan,SDN
+Suriname,SUR
+Svalbard & Jan Mayen Islands,SJM
+Swaziland,SWZ
+Sweden,SWE
+"Switzerland, Swiss Confederation",CHE
+Syrian Arab Republic,SYR
+Tajikistan,TJK
+Thailand,THA
+"Togo, Togolese Republic",TGO
+Tokelau,TKL
+Tonga,TON
+Trinidad and Tobago,TTO
+United Arab Emirates,ARE
+"Tunisia, Tunisian Republic",TUN
+Turkey,TUR
+Turkey,TUR
+Turkmenistan,TKM
+Turks and Caicos Islands,TCA
+Tuvalu,TUV
+Uganda,UGA
+Ukraine,UKR
+"Macedonia, The Former Yugoslav Republic of",MKD
+"Egypt, Arab Republic of",EGY
+United Kingdom of Great Britain & Northern Ireland,GBR
+"Guernsey, Bailiwick of",GGY
+"Jersey, Bailiwick of",JEY
+Isle of Man,IMN
+"Tanzania, United Republic of",TZA
+United States of America,USA
+United States Virgin Islands,VIR
+Burkina Faso,BFA
+"Uruguay, Eastern Republic of",URY
+Uzbekistan,UZB
+"Venezuela, Bolivarian Republic of",VEN
+Wallis and Futuna,WLF
+"Samoa, Independent State of",WSM
+Yemen,YEM
+Zambia,ZMB
+Disputed Territory,
+Iraq-Saudi Arabia Neutral Zone,
+United Nations Neutral Zone,
+Spratly Islands,
